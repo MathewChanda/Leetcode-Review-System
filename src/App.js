@@ -5,7 +5,7 @@ import Login from './Component/Login/Login'
 function App() {
   return (
     <ChakraProvider>
-      <div>
+      <div style={ { width: 219, height: 315 } }>
         <Login/>
       </div>
     </ChakraProvider>
