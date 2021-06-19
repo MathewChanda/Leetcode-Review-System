@@ -1,6 +1,6 @@
 {
-    "name": "LC-Leaderboard",
-    "description": "Build an Extension!",
+    "name": "Leetcode Review",
+    "description": "Tell you which Leetcode question to review!",
     "version": "1.0",
     "manifest_version": 3
-  }
+}
