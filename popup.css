@@ -1,0 +1,6 @@
+@import "tailwindcss/base";
+@import "tailwindcss/utilities";
+#backgroundDiv{
+    width: 400px; 
+    height: 400px;  
+}

@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Notes about chrome extension 
+background script - used to inject code and do things in the backgeround 
+content script - used to change the page in terms of ui .
+popuup scripts - used for default view when clicking the 
+in terms of debugging: it depends on the script 
+background scripts : go to chrome extension tab and click inspect views tro access the background page 
+content script : main console 
+popup.js : inspect element in the chrome extension j
