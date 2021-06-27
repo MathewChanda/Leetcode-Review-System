@@ -1,5 +1,8 @@
 module.exports = {
-  purge: [],
+  purge: [
+    "./popup.html", 
+    "./popup.js"
+  ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
